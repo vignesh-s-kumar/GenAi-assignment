@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import groq
+from groq import Groq
 
 # Page configuration for a sleek layout
 st.set_page_config(
